@@ -8,6 +8,7 @@ public class JavaCourseResTfulApiPracticalProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaCourseResTfulApiPracticalProjectApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
